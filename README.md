@@ -15,11 +15,11 @@ Download e Compartilhamento: Baixe seus QR codes e compartilhe onde quiser.
 Acesse swiftqr.com.br.
 Cadastre-se ou faça login.
 Insira o conteúdo que deseja transformar em QR code.
-<!--⚙ Em breve 👷‍♂️-->Customize (cores, bordas, formatos) e faça o download ou compartilhe diretamente.
-2. Leitura de QR Codes
+2. <!--⚙ Em breve 👷‍♂️-->Customize (cores, bordas, formatos) e faça o download ou compartilhe diretamente.
+3. Leitura de QR Codes
 Clique em "Ler QR Code" e faça o upload de uma imagem contendo o código.
 A plataforma decodificará o conteúdo instantaneamente.
-3. Encurtamento de URLs
+4. Encurtamento de URLs
 Insira uma URL longa e obtenha uma versão curta com redirecionamento rápido e confiável via o subdomínio short.swiftqr.com.br.
 
 <!--⚙ Em breve 👷‍♂️-->
